@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 class Person
 
     def name
@@ -16,3 +17,11 @@ class Person
         @job = job_name 
     end 
 end 
+=======
+class Person 
+ 
+  end 
+  
+  
+end
+>>>>>>> 485ca31196592af67177c733a046552dcb350ee7
